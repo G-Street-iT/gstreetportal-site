@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gstreetportal.com/sitemap.xml
